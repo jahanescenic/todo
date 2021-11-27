@@ -1,5 +1,5 @@
-Feature: Go to todo app
+Feature: Go to TODO app
   The first test to check the connection
  
-  Scenario: Go to todo app
+  Scenario: Go to TODO app
     When I go to "http://todomvc.com/examples/react/#/"
